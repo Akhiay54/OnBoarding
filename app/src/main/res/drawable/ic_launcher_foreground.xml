@@ -1,0 +1,72 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Main JAR Container - Modern Design -->
+    <path
+        android:pathData="M32,38 L76,38 L76,42 L78,42 L78,78 L76,78 L76,82 L32,82 L32,78 L30,78 L30,42 L32,42 Z"
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeColor="#E8E8E8" />
+    
+    <!-- JAR Lid - Premium Look -->
+    <path
+        android:pathData="M28,32 L80,32 L80,40 L28,40 Z"
+        android:fillColor="#FFD700"
+        android:strokeWidth="1"
+        android:strokeColor="#FFA500" />
+    
+    <!-- Lid Handle - Elegant -->
+    <path
+        android:pathData="M50,28 L58,28 L58,32 L50,32 Z"
+        android:fillColor="#FFA500" />
+    
+    <!-- Modern Dollar Symbol -->
+    <path
+        android:pathData="M54,45 L54,75 M48,50 Q54,47 60,50 Q54,54 60,57 Q54,60 48,57"
+        android:strokeWidth="3"
+        android:strokeColor="#667eea"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    
+    <!-- Floating Coins - Using paths instead of circles -->
+    <path
+        android:pathData="M42,48 A4,4 0 1,1 42,56 A4,4 0 1,1 42,48 Z"
+        android:fillColor="#FFD700"
+        android:strokeWidth="1"
+        android:strokeColor="#FFA500" />
+    
+    <path
+        android:pathData="M66,55 A3,3 0 1,1 66,61 A3,3 0 1,1 66,55 Z"
+        android:fillColor="#FFD700"
+        android:strokeWidth="1"
+        android:strokeColor="#FFA500" />
+    
+    <path
+        android:pathData="M45,65.5 A2.5,2.5 0 1,1 45,70.5 A2.5,2.5 0 1,1 45,65.5 Z"
+        android:fillColor="#FFC107"
+        android:strokeWidth="0.5"
+        android:strokeColor="#FF8F00" />
+    
+    <!-- JAR Brand Text - Clean Typography -->
+    <path
+        android:pathData="M42,90 L44,90 L44,96 L42,96 L42,94 L40,94 L40,92 L42,92 Z"
+        android:fillColor="#FFFFFF" />
+    
+    <path
+        android:pathData="M46,90 L50,90 L50,92 L48,92 L48,94 L50,94 L50,96 L46,96 L46,94 L46,92 L48,92 L48,90 Z"
+        android:fillColor="#FFFFFF" />
+    
+    <path
+        android:pathData="M52,90 L56,90 L56,92 L54,92 L54,94 L56,94 L56,96 L52,96 L52,94 L54,94 L54,92 L52,92 Z"
+        android:fillColor="#FFFFFF" />
+    
+    <!-- Subtle shine effect on jar -->
+    <path
+        android:pathData="M34,40 L36,40 L36,76 L34,76 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.3" />
+        
+</vector>
