@@ -2,6 +2,12 @@
 
 Android onboarding application built with Jetpack Compose featuring smooth card animations and clean architecture.
 
+
+https://github.com/user-attachments/assets/2528a0c5-d7e9-4386-ab3b-41e856988b91
+
+
+
+
 ## Features
 
 - **Sequential Card Animations**: Cards appear from bottom with expand/collapse transitions
