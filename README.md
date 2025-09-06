@@ -53,16 +53,4 @@ Uses JAR's education metadata endpoint:
 ```
 https://myjar.app/_assets/shared/education-metadata.json
 ```
-
-##Requirements ✅
-
-- ✅ Jetpack Compose
-- ✅ MVVM Architecture  
-- ✅ Clean Architecture
-- ✅ Coroutines
-- ✅ Retrofit
-- ✅ Modern Android practices
-- ✅ Complex animations
-- ✅ Professional code quality
-
 ---
